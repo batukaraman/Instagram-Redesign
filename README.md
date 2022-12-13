@@ -4,4 +4,4 @@ Although the Instagram clone was deemed appropriate as the 2nd assignment given 
 
 I made this redesign inspired by Jean Delbrel's [Instagram Desktop Homepage Redesign](https://dribbble.com/shots/5469179-Instagram-Desktop-Homepage) project and with my own additions.
 
-![screenshot 2022-12-13 030337](/screenshots/ss 2022-12-13 030337.jpg "screenshot 2022-12-13 030337")
+![screenshot 2022-12-13 030337](/screenshots/screenshot_2022-12-13_030337.jpg "screenshot 2022-12-13 030337")
